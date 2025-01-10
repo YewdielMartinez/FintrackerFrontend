@@ -8,7 +8,6 @@ const axiosClient = axios.create({
   },
 });
 
-// axiosClient.get('/miEndpoint')
-// axiosClient.get('miEndpoint')
+
 
 export default axiosClient;
